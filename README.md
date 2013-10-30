@@ -9,5 +9,4 @@ See a rst file in your browser.
 
     pip install -r requirements.txt
     python rst2bootstrap.py rest.rst
-    # Go to this location in your browser: http://localhost:5000
 
