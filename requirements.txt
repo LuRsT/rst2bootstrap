@@ -1,1 +1,1 @@
-docutils
+docutils==0.14
